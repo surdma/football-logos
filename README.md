@@ -1,4 +1,4 @@
-# Football Team Logos 2025/2026
+# Football Team Logos 2026/2027
 
 This repository contains PNG logos (139x181px) for all football teams in the top 25 European leagues. Logos are organized by season and league, with historical data available from the 2021/2022 season onward.
 
@@ -6,7 +6,7 @@ This repository contains PNG logos (139x181px) for all football teams in the top
 
 - `logos/`
 
-  Contains current season logos (2025/2026) for all teams in the top 25 European leagues.
+  Contains current season logos (2026/2027) for all teams in the top 25 European leagues.
 
 - `history/`
 
