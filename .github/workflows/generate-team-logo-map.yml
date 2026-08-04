@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - agent/generate-team-logo-map
+  pull_request:
+    branches:
+      - master
 
 permissions:
   contents: write
@@ -12,8 +15,10 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
+      - name: Check out source branch
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
 
       - name: Generate team logo JSON
         shell: bash
