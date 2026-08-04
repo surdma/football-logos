@@ -58,13 +58,14 @@ jobs:
       - name: Commit generated JSON
         shell: bash
         run: |
-          if [ -z "$(git status --porcelain -- team-logos.json)" ]; then
+          git add -f team-logos.json
+
+          if git diff --cached --quiet; then
             echo "team-logos.json is already up to date"
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add team-logos.json
           git commit -m "generate team logo map"
           git push
