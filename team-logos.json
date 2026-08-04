@@ -1,0 +1,1586 @@
+[
+  {
+    "team": "Austria Vienna",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Austria%20-%20Bundesliga/Austria%20Vienna.png"
+  },
+  {
+    "team": "Grazer AK 1902",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Austria%20-%20Bundesliga/Grazer%20AK%201902.png"
+  },
+  {
+    "team": "LASK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Austria%20-%20Bundesliga/LASK.png"
+  },
+  {
+    "team": "Rapid Vienna",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Austria%20-%20Bundesliga/Rapid%20Vienna.png"
+  },
+  {
+    "team": "Red Bull Salzburg",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Austria%20-%20Bundesliga/Red%20Bull%20Salzburg.png"
+  },
+  {
+    "team": "SC Austria Lustenau",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Austria%20-%20Bundesliga/SC%20Austria%20Lustenau.png"
+  },
+  {
+    "team": "SCR Altach",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Austria%20-%20Bundesliga/SCR%20Altach.png"
+  },
+  {
+    "team": "SK Sturm Graz",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Austria%20-%20Bundesliga/SK%20Sturm%20Graz.png"
+  },
+  {
+    "team": "SV Ried",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Austria%20-%20Bundesliga/SV%20Ried.png"
+  },
+  {
+    "team": "TSV Hartberg",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Austria%20-%20Bundesliga/TSV%20Hartberg.png"
+  },
+  {
+    "team": "Wolfsberger AC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Austria%20-%20Bundesliga/Wolfsberger%20AC.png"
+  },
+  {
+    "team": "WSG Tirol",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Austria%20-%20Bundesliga/WSG%20Tirol.png"
+  },
+  {
+    "team": "Cercle Brugge",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/Cercle%20Brugge.png"
+  },
+  {
+    "team": "Club Brugge KV",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/Club%20Brugge%20KV.png"
+  },
+  {
+    "team": "KAA Gent",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/KAA%20Gent.png"
+  },
+  {
+    "team": "KRC Genk",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/KRC%20Genk.png"
+  },
+  {
+    "team": "KV Kortrijk",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/KV%20Kortrijk.png"
+  },
+  {
+    "team": "KV Mechelen",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/KV%20Mechelen.png"
+  },
+  {
+    "team": "KVC Westerlo",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/KVC%20Westerlo.png"
+  },
+  {
+    "team": "Lommel SK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/Lommel%20SK.png"
+  },
+  {
+    "team": "Oud-Heverlee Leuven",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/Oud-Heverlee%20Leuven.png"
+  },
+  {
+    "team": "RAAL La Louvière",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/RAAL%20La%20Louvi%C3%A8re.png"
+  },
+  {
+    "team": "Royal Antwerp FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/Royal%20Antwerp%20FC.png"
+  },
+  {
+    "team": "Royal Charleroi SC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/Royal%20Charleroi%20SC.png"
+  },
+  {
+    "team": "RSC Anderlecht",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/RSC%20Anderlecht.png"
+  },
+  {
+    "team": "Sint-Truidense VV",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/Sint-Truidense%20VV.png"
+  },
+  {
+    "team": "SK Beveren",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/SK%20Beveren.png"
+  },
+  {
+    "team": "Standard Liège",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/Standard%20Li%C3%A8ge.png"
+  },
+  {
+    "team": "Union Saint-Gilloise",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/Union%20Saint-Gilloise.png"
+  },
+  {
+    "team": "Zulte Waregem",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Belgium%20-%20Jupiler%20Pro%20League/Zulte%20Waregem.png"
+  },
+  {
+    "team": "Arda Kardzhali",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Bulgaria%20-%20efbet%20Liga/Arda%20Kardzhali.png"
+  },
+  {
+    "team": "Botev Plovdiv",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Bulgaria%20-%20efbet%20Liga/Botev%20Plovdiv.png"
+  },
+  {
+    "team": "Botev Vratsa",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Bulgaria%20-%20efbet%20Liga/Botev%20Vratsa.png"
+  },
+  {
+    "team": "Cherno More Varna",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Bulgaria%20-%20efbet%20Liga/Cherno%20More%20Varna.png"
+  },
+  {
+    "team": "CSKA 1948",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Bulgaria%20-%20efbet%20Liga/CSKA%201948.png"
+  },
+  {
+    "team": "CSKA Sofia",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Bulgaria%20-%20efbet%20Liga/CSKA%20Sofia.png"
+  },
+  {
+    "team": "Dunav Ruse",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Bulgaria%20-%20efbet%20Liga/Dunav%20Ruse.png"
+  },
+  {
+    "team": "Levski Sofia",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Bulgaria%20-%20efbet%20Liga/Levski%20Sofia.png"
+  },
+  {
+    "team": "Lokomotiv Plovdiv",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Bulgaria%20-%20efbet%20Liga/Lokomotiv%20Plovdiv.png"
+  },
+  {
+    "team": "Lokomotiv Sofia",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Bulgaria%20-%20efbet%20Liga/Lokomotiv%20Sofia.png"
+  },
+  {
+    "team": "Ludogorets Razgrad",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Bulgaria%20-%20efbet%20Liga/Ludogorets%20Razgrad.png"
+  },
+  {
+    "team": "Septemvri Sofia",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Bulgaria%20-%20efbet%20Liga/Septemvri%20Sofia.png"
+  },
+  {
+    "team": "Slavia Sofia",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Bulgaria%20-%20efbet%20Liga/Slavia%20Sofia.png"
+  },
+  {
+    "team": "Spartak Varna",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Bulgaria%20-%20efbet%20Liga/Spartak%20Varna.png"
+  },
+  {
+    "team": "GNK Dinamo Zagreb",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Croatia%20-%20SuperSport%20HNL/GNK%20Dinamo%20Zagreb.png"
+  },
+  {
+    "team": "HNK Gorica",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Croatia%20-%20SuperSport%20HNL/HNK%20Gorica.png"
+  },
+  {
+    "team": "HNK Hajduk Split",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Croatia%20-%20SuperSport%20HNL/HNK%20Hajduk%20Split.png"
+  },
+  {
+    "team": "HNK Rijeka",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Croatia%20-%20SuperSport%20HNL/HNK%20Rijeka.png"
+  },
+  {
+    "team": "NK Istra 1961",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Croatia%20-%20SuperSport%20HNL/NK%20Istra%201961.png"
+  },
+  {
+    "team": "NK Lokomotiva Zagreb",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Croatia%20-%20SuperSport%20HNL/NK%20Lokomotiva%20Zagreb.png"
+  },
+  {
+    "team": "NK Osijek",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Croatia%20-%20SuperSport%20HNL/NK%20Osijek.png"
+  },
+  {
+    "team": "NK Rudes",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Croatia%20-%20SuperSport%20HNL/NK%20Rudes.png"
+  },
+  {
+    "team": "NK Varazdin",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Croatia%20-%20SuperSport%20HNL/NK%20Varazdin.png"
+  },
+  {
+    "team": "Slaven Belupo Koprivnica",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Croatia%20-%20SuperSport%20HNL/Slaven%20Belupo%20Koprivnica.png"
+  },
+  {
+    "team": "1.FC Slovacko",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Czech%20Republic%20-%20Chance%20Liga/1.FC%20Slovacko.png"
+  },
+  {
+    "team": "AC Sparta Prague",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Czech%20Republic%20-%20Chance%20Liga/AC%20Sparta%20Prague.png"
+  },
+  {
+    "team": "Bohemians Prague 1905",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Czech%20Republic%20-%20Chance%20Liga/Bohemians%20Prague%201905.png"
+  },
+  {
+    "team": "FC Banik Ostrava",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Czech%20Republic%20-%20Chance%20Liga/FC%20Banik%20Ostrava.png"
+  },
+  {
+    "team": "FC Hradec Kralove",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Czech%20Republic%20-%20Chance%20Liga/FC%20Hradec%20Kralove.png"
+  },
+  {
+    "team": "FC Slovan Liberec",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Czech%20Republic%20-%20Chance%20Liga/FC%20Slovan%20Liberec.png"
+  },
+  {
+    "team": "FC Viktoria Plzen",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Czech%20Republic%20-%20Chance%20Liga/FC%20Viktoria%20Plzen.png"
+  },
+  {
+    "team": "FC Zbrojovka Brno",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Czech%20Republic%20-%20Chance%20Liga/FC%20Zbrojovka%20Brno.png"
+  },
+  {
+    "team": "FC Zlin",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Czech%20Republic%20-%20Chance%20Liga/FC%20Zlin.png"
+  },
+  {
+    "team": "FK Jablonec",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Czech%20Republic%20-%20Chance%20Liga/FK%20Jablonec.png"
+  },
+  {
+    "team": "FK Mlada Boleslav",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Czech%20Republic%20-%20Chance%20Liga/FK%20Mlada%20Boleslav.png"
+  },
+  {
+    "team": "FK Pardubice",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Czech%20Republic%20-%20Chance%20Liga/FK%20Pardubice.png"
+  },
+  {
+    "team": "FK Teplice",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Czech%20Republic%20-%20Chance%20Liga/FK%20Teplice.png"
+  },
+  {
+    "team": "SK Artis Brno",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Czech%20Republic%20-%20Chance%20Liga/SK%20Artis%20Brno.png"
+  },
+  {
+    "team": "SK Sigma Olomouc",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Czech%20Republic%20-%20Chance%20Liga/SK%20Sigma%20Olomouc.png"
+  },
+  {
+    "team": "SK Slavia Prague",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Czech%20Republic%20-%20Chance%20Liga/SK%20Slavia%20Prague.png"
+  },
+  {
+    "team": "Aarhus GF",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Denmark%20-%20Superliga/Aarhus%20GF.png"
+  },
+  {
+    "team": "AC Horsens",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Denmark%20-%20Superliga/AC%20Horsens.png"
+  },
+  {
+    "team": "Bröndby IF",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Denmark%20-%20Superliga/Br%C3%B6ndby%20IF.png"
+  },
+  {
+    "team": "FC Copenhagen",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Denmark%20-%20Superliga/FC%20Copenhagen.png"
+  },
+  {
+    "team": "FC Midtjylland",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Denmark%20-%20Superliga/FC%20Midtjylland.png"
+  },
+  {
+    "team": "FC Nordsjaelland",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Denmark%20-%20Superliga/FC%20Nordsjaelland.png"
+  },
+  {
+    "team": "Lyngby Boldklub",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Denmark%20-%20Superliga/Lyngby%20Boldklub.png"
+  },
+  {
+    "team": "Odense Boldklub",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Denmark%20-%20Superliga/Odense%20Boldklub.png"
+  },
+  {
+    "team": "Randers FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Denmark%20-%20Superliga/Randers%20FC.png"
+  },
+  {
+    "team": "Silkeborg IF",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Denmark%20-%20Superliga/Silkeborg%20IF.png"
+  },
+  {
+    "team": "Sönderjyske Fodbold",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Denmark%20-%20Superliga/S%C3%B6nderjyske%20Fodbold.png"
+  },
+  {
+    "team": "Viborg FF",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Denmark%20-%20Superliga/Viborg%20FF.png"
+  },
+  {
+    "team": "AFC Bournemouth",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+  },
+  {
+    "team": "Arsenal FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+  },
+  {
+    "team": "Aston Villa",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+  },
+  {
+    "team": "Brentford FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+  },
+  {
+    "team": "Brighton & Hove Albion",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+  },
+  {
+    "team": "Chelsea FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+  },
+  {
+    "team": "Coventry City",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+  },
+  {
+    "team": "Crystal Palace",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+  },
+  {
+    "team": "Everton FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+  },
+  {
+    "team": "Fulham FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+  },
+  {
+    "team": "Hull City",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Hull%20City.png"
+  },
+  {
+    "team": "Ipswich Town",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+  },
+  {
+    "team": "Leeds United",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+  },
+  {
+    "team": "Liverpool FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+  },
+  {
+    "team": "Manchester City",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+  },
+  {
+    "team": "Manchester United",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+  },
+  {
+    "team": "Newcastle United",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+  },
+  {
+    "team": "Nottingham Forest",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+  },
+  {
+    "team": "Sunderland AFC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+  },
+  {
+    "team": "Tottenham Hotspur",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+  },
+  {
+    "team": "AJ Auxerre",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/AJ%20Auxerre.png"
+  },
+  {
+    "team": "Angers SCO",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/Angers%20SCO.png"
+  },
+  {
+    "team": "AS Monaco",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/AS%20Monaco.png"
+  },
+  {
+    "team": "ESTAC Troyes",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/ESTAC%20Troyes.png"
+  },
+  {
+    "team": "FC Lorient",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/FC%20Lorient.png"
+  },
+  {
+    "team": "FC Toulouse",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/FC%20Toulouse.png"
+  },
+  {
+    "team": "Le Havre AC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/Le%20Havre%20AC.png"
+  },
+  {
+    "team": "Le Mans FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/Le%20Mans%20FC.png"
+  },
+  {
+    "team": "LOSC Lille",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/LOSC%20Lille.png"
+  },
+  {
+    "team": "OGC Nice",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/OGC%20Nice.png"
+  },
+  {
+    "team": "Olympique Lyon",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/Olympique%20Lyon.png"
+  },
+  {
+    "team": "Olympique Marseille",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/Olympique%20Marseille.png"
+  },
+  {
+    "team": "Paris FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/Paris%20FC.png"
+  },
+  {
+    "team": "Paris Saint-Germain",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/Paris%20Saint-Germain.png"
+  },
+  {
+    "team": "RC Lens",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/RC%20Lens.png"
+  },
+  {
+    "team": "RC Strasbourg Alsace",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/RC%20Strasbourg%20Alsace.png"
+  },
+  {
+    "team": "Stade Brestois 29",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/Stade%20Brestois%2029.png"
+  },
+  {
+    "team": "Stade Rennais FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/France%20-%20Ligue%201/Stade%20Rennais%20FC.png"
+  },
+  {
+    "team": "1.FC Köln",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/1.FC%20K%C3%B6ln.png"
+  },
+  {
+    "team": "1.FC Union Berlin",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/1.FC%20Union%20Berlin.png"
+  },
+  {
+    "team": "1.FSV Mainz 05",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/1.FSV%20Mainz%2005.png"
+  },
+  {
+    "team": "Bayer 04 Leverkusen",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/Bayer%2004%20Leverkusen.png"
+  },
+  {
+    "team": "Bayern Munich",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/Bayern%20Munich.png"
+  },
+  {
+    "team": "Borussia Dortmund",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/Borussia%20Dortmund.png"
+  },
+  {
+    "team": "Borussia Mönchengladbach",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/Borussia%20M%C3%B6nchengladbach.png"
+  },
+  {
+    "team": "Eintracht Frankfurt",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/Eintracht%20Frankfurt.png"
+  },
+  {
+    "team": "FC Augsburg",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/FC%20Augsburg.png"
+  },
+  {
+    "team": "FC Schalke 04",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/FC%20Schalke%2004.png"
+  },
+  {
+    "team": "Hamburger SV",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/Hamburger%20SV.png"
+  },
+  {
+    "team": "RB Leipzig",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/RB%20Leipzig.png"
+  },
+  {
+    "team": "SC Freiburg",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/SC%20Freiburg.png"
+  },
+  {
+    "team": "SC Paderborn 07",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/SC%20Paderborn%2007.png"
+  },
+  {
+    "team": "SV 07 Elversberg",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/SV%2007%20Elversberg.png"
+  },
+  {
+    "team": "SV Werder Bremen",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/SV%20Werder%20Bremen.png"
+  },
+  {
+    "team": "TSG 1899 Hoffenheim",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/TSG%201899%20Hoffenheim.png"
+  },
+  {
+    "team": "VfB Stuttgart",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Germany%20-%20Bundesliga/VfB%20Stuttgart.png"
+  },
+  {
+    "team": "AE Kifisia",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Greece%20-%20Super%20League%201/AE%20Kifisia.png"
+  },
+  {
+    "team": "AEK Athens",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Greece%20-%20Super%20League%201/AEK%20Athens.png"
+  },
+  {
+    "team": "Aris Thessaloniki",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Greece%20-%20Super%20League%201/Aris%20Thessaloniki.png"
+  },
+  {
+    "team": "Asteras Aktor",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Greece%20-%20Super%20League%201/Asteras%20Aktor.png"
+  },
+  {
+    "team": "Atromitos Athens",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Greece%20-%20Super%20League%201/Atromitos%20Athens.png"
+  },
+  {
+    "team": "Iraklis Thessaloniki",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Greece%20-%20Super%20League%201/Iraklis%20Thessaloniki.png"
+  },
+  {
+    "team": "Kalamata FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Greece%20-%20Super%20League%201/Kalamata%20FC.png"
+  },
+  {
+    "team": "Levadiakos",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Greece%20-%20Super%20League%201/Levadiakos.png"
+  },
+  {
+    "team": "OFI Crete",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Greece%20-%20Super%20League%201/OFI%20Crete.png"
+  },
+  {
+    "team": "Olympiacos Piraeus",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Greece%20-%20Super%20League%201/Olympiacos%20Piraeus.png"
+  },
+  {
+    "team": "Panathinaikos",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Greece%20-%20Super%20League%201/Panathinaikos.png"
+  },
+  {
+    "team": "Panetolikos",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Greece%20-%20Super%20League%201/Panetolikos.png"
+  },
+  {
+    "team": "PAOK Thessaloniki",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Greece%20-%20Super%20League%201/PAOK%20Thessaloniki.png"
+  },
+  {
+    "team": "Volos NFC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Greece%20-%20Super%20League%201/Volos%20NFC.png"
+  },
+  {
+    "team": "Beitar Jerusalem",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Israel%20-%20Ligat%20ha%27Al/Beitar%20Jerusalem.png"
+  },
+  {
+    "team": "Hapoel Beer Sheva",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Israel%20-%20Ligat%20ha%27Al/Hapoel%20Beer%20Sheva.png"
+  },
+  {
+    "team": "Hapoel Haifa",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Israel%20-%20Ligat%20ha%27Al/Hapoel%20Haifa.png"
+  },
+  {
+    "team": "Hapoel Jerusalem",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Israel%20-%20Ligat%20ha%27Al/Hapoel%20Jerusalem.png"
+  },
+  {
+    "team": "Hapoel Petah Tikva",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Israel%20-%20Ligat%20ha%27Al/Hapoel%20Petah%20Tikva.png"
+  },
+  {
+    "team": "Hapoel Ramat Gan",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Israel%20-%20Ligat%20ha%27Al/Hapoel%20Ramat%20Gan.png"
+  },
+  {
+    "team": "Hapoel Tel Aviv",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Israel%20-%20Ligat%20ha%27Al/Hapoel%20Tel%20Aviv.png"
+  },
+  {
+    "team": "Ihud Bnei Sakhnin",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Israel%20-%20Ligat%20ha%27Al/Ihud%20Bnei%20Sakhnin.png"
+  },
+  {
+    "team": "Ironi Kiryat Shmona",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Israel%20-%20Ligat%20ha%27Al/Ironi%20Kiryat%20Shmona.png"
+  },
+  {
+    "team": "Ironi Tiberias",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Israel%20-%20Ligat%20ha%27Al/Ironi%20Tiberias.png"
+  },
+  {
+    "team": "Maccabi Haifa",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Israel%20-%20Ligat%20ha%27Al/Maccabi%20Haifa.png"
+  },
+  {
+    "team": "Maccabi Netanya",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Israel%20-%20Ligat%20ha%27Al/Maccabi%20Netanya.png"
+  },
+  {
+    "team": "Maccabi Petah Tikva",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Israel%20-%20Ligat%20ha%27Al/Maccabi%20Petah%20Tikva.png"
+  },
+  {
+    "team": "Maccabi Tel Aviv",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Israel%20-%20Ligat%20ha%27Al/Maccabi%20Tel%20Aviv.png"
+  },
+  {
+    "team": "AC Milan",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/AC%20Milan.png"
+  },
+  {
+    "team": "AC Monza",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/AC%20Monza.png"
+  },
+  {
+    "team": "ACF Fiorentina",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/ACF%20Fiorentina.png"
+  },
+  {
+    "team": "AS Roma",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/AS%20Roma.png"
+  },
+  {
+    "team": "Atalanta BC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/Atalanta%20BC.png"
+  },
+  {
+    "team": "Bologna FC 1909",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/Bologna%20FC%201909.png"
+  },
+  {
+    "team": "Cagliari Calcio",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/Cagliari%20Calcio.png"
+  },
+  {
+    "team": "Como 1907",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/Como%201907.png"
+  },
+  {
+    "team": "Frosinone Calcio",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/Frosinone%20Calcio.png"
+  },
+  {
+    "team": "Genoa CFC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/Genoa%20CFC.png"
+  },
+  {
+    "team": "Inter Milan",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/Inter%20Milan.png"
+  },
+  {
+    "team": "Juventus FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/Juventus%20FC.png"
+  },
+  {
+    "team": "Parma Calcio 1913",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/Parma%20Calcio%201913.png"
+  },
+  {
+    "team": "SS Lazio",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/SS%20Lazio.png"
+  },
+  {
+    "team": "SSC Napoli",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/SSC%20Napoli.png"
+  },
+  {
+    "team": "Torino FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/Torino%20FC.png"
+  },
+  {
+    "team": "Udinese Calcio",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/Udinese%20Calcio.png"
+  },
+  {
+    "team": "US Lecce",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/US%20Lecce.png"
+  },
+  {
+    "team": "US Sassuolo",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/US%20Sassuolo.png"
+  },
+  {
+    "team": "Venezia FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Italy%20-%20Serie%20A/Venezia%20FC.png"
+  },
+  {
+    "team": "ADO Den Haag",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/ADO%20Den%20Haag.png"
+  },
+  {
+    "team": "Ajax Amsterdam",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/Ajax%20Amsterdam.png"
+  },
+  {
+    "team": "AZ Alkmaar",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/AZ%20Alkmaar.png"
+  },
+  {
+    "team": "Excelsior Rotterdam",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/Excelsior%20Rotterdam.png"
+  },
+  {
+    "team": "FC Groningen",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/FC%20Groningen.png"
+  },
+  {
+    "team": "FC Twente Enschede",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/FC%20Twente%20Enschede.png"
+  },
+  {
+    "team": "FC Utrecht",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/FC%20Utrecht.png"
+  },
+  {
+    "team": "Feyenoord Rotterdam",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/Feyenoord%20Rotterdam.png"
+  },
+  {
+    "team": "Fortuna Sittard",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/Fortuna%20Sittard.png"
+  },
+  {
+    "team": "Go Ahead Eagles",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/Go%20Ahead%20Eagles.png"
+  },
+  {
+    "team": "NEC Nijmegen",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/NEC%20Nijmegen.png"
+  },
+  {
+    "team": "PEC Zwolle",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/PEC%20Zwolle.png"
+  },
+  {
+    "team": "PSV Eindhoven",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/PSV%20Eindhoven.png"
+  },
+  {
+    "team": "SC Cambuur Leeuwarden",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/SC%20Cambuur%20Leeuwarden.png"
+  },
+  {
+    "team": "SC Heerenveen",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/SC%20Heerenveen.png"
+  },
+  {
+    "team": "SC Telstar",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/SC%20Telstar.png"
+  },
+  {
+    "team": "Sparta Rotterdam",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/Sparta%20Rotterdam.png"
+  },
+  {
+    "team": "Willem II Tilburg",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Netherlands%20-%20Eredivisie/Willem%20II%20Tilburg.png"
+  },
+  {
+    "team": "Aalesunds FK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Norway%20-%20Eliteserien/Aalesunds%20FK.png"
+  },
+  {
+    "team": "FK BodøGlimt",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Norway%20-%20Eliteserien/FK%20Bod%C3%B8Glimt.png"
+  },
+  {
+    "team": "Fredrikstad FK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Norway%20-%20Eliteserien/Fredrikstad%20FK.png"
+  },
+  {
+    "team": "Hamarkameratene",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Norway%20-%20Eliteserien/Hamarkameratene.png"
+  },
+  {
+    "team": "IK Start",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Norway%20-%20Eliteserien/IK%20Start.png"
+  },
+  {
+    "team": "KFUM-Kameratene Oslo",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Norway%20-%20Eliteserien/KFUM-Kameratene%20Oslo.png"
+  },
+  {
+    "team": "Kristiansund BK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Norway%20-%20Eliteserien/Kristiansund%20BK.png"
+  },
+  {
+    "team": "Lillestrøm SK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Norway%20-%20Eliteserien/Lillestr%C3%B8m%20SK.png"
+  },
+  {
+    "team": "Molde FK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Norway%20-%20Eliteserien/Molde%20FK.png"
+  },
+  {
+    "team": "Rosenborg BK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Norway%20-%20Eliteserien/Rosenborg%20BK.png"
+  },
+  {
+    "team": "Sandefjord Fotball",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Norway%20-%20Eliteserien/Sandefjord%20Fotball.png"
+  },
+  {
+    "team": "Sarpsborg 08 FF",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Norway%20-%20Eliteserien/Sarpsborg%2008%20FF.png"
+  },
+  {
+    "team": "SK Brann",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Norway%20-%20Eliteserien/SK%20Brann.png"
+  },
+  {
+    "team": "Tromsø IL",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Norway%20-%20Eliteserien/Troms%C3%B8%20IL.png"
+  },
+  {
+    "team": "Viking FK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Norway%20-%20Eliteserien/Viking%20FK.png"
+  },
+  {
+    "team": "Vålerenga Fotball Elite",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Norway%20-%20Eliteserien/V%C3%A5lerenga%20Fotball%20Elite.png"
+  },
+  {
+    "team": "Cracovia",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/Cracovia.png"
+  },
+  {
+    "team": "GKS Katowice",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/GKS%20Katowice.png"
+  },
+  {
+    "team": "Górnik Zabrze",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/G%C3%B3rnik%20Zabrze.png"
+  },
+  {
+    "team": "Jagiellonia Bialystok",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/Jagiellonia%20Bialystok.png"
+  },
+  {
+    "team": "Korona Kielce",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/Korona%20Kielce.png"
+  },
+  {
+    "team": "Lech Poznan",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/Lech%20Poznan.png"
+  },
+  {
+    "team": "Legia Warszawa",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/Legia%20Warszawa.png"
+  },
+  {
+    "team": "Motor Lublin",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/Motor%20Lublin.png"
+  },
+  {
+    "team": "Piast Gliwice",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/Piast%20Gliwice.png"
+  },
+  {
+    "team": "Pogon Szczecin",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/Pogon%20Szczecin.png"
+  },
+  {
+    "team": "Radomiak Radom",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/Radomiak%20Radom.png"
+  },
+  {
+    "team": "Raków Częstochowa",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/Rak%C3%B3w%20Cz%C4%99stochowa.png"
+  },
+  {
+    "team": "Slask Wroclaw",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/Slask%20Wroclaw.png"
+  },
+  {
+    "team": "Widzew Lodz",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/Widzew%20Lodz.png"
+  },
+  {
+    "team": "Wieczysta Krakow",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/Wieczysta%20Krakow.png"
+  },
+  {
+    "team": "Wisla Kraków",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/Wisla%20Krak%C3%B3w.png"
+  },
+  {
+    "team": "Wisla Plock",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/Wisla%20Plock.png"
+  },
+  {
+    "team": "Zaglebie Lubin",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Poland%20-%20PKO%20BP%20Ekstraklasa/Zaglebie%20Lubin.png"
+  },
+  {
+    "team": "Académico Viseu FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/Acad%C3%A9mico%20Viseu%20FC.png"
+  },
+  {
+    "team": "Casa Pia AC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/Casa%20Pia%20AC.png"
+  },
+  {
+    "team": "CD Nacional",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/CD%20Nacional.png"
+  },
+  {
+    "team": "CD Santa Clara",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/CD%20Santa%20Clara.png"
+  },
+  {
+    "team": "CF Estrela Amadora",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/CF%20Estrela%20Amadora.png"
+  },
+  {
+    "team": "CS Marítimo",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/CS%20Mar%C3%ADtimo.png"
+  },
+  {
+    "team": "FC Alverca",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/FC%20Alverca.png"
+  },
+  {
+    "team": "FC Arouca",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/FC%20Arouca.png"
+  },
+  {
+    "team": "FC Famalicão",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/FC%20Famalic%C3%A3o.png"
+  },
+  {
+    "team": "FC Porto",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/FC%20Porto.png"
+  },
+  {
+    "team": "GD Estoril Praia",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/GD%20Estoril%20Praia.png"
+  },
+  {
+    "team": "Gil Vicente FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/Gil%20Vicente%20FC.png"
+  },
+  {
+    "team": "Moreirense FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/Moreirense%20FC.png"
+  },
+  {
+    "team": "Rio Ave FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/Rio%20Ave%20FC.png"
+  },
+  {
+    "team": "SC Braga",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/SC%20Braga.png"
+  },
+  {
+    "team": "SL Benfica",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/SL%20Benfica.png"
+  },
+  {
+    "team": "Sporting CP",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/Sporting%20CP.png"
+  },
+  {
+    "team": "Vitória Guimarães SC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Portugal%20-%20Liga%20Portugal/Vit%C3%B3ria%20Guimar%C3%A3es%20SC.png"
+  },
+  {
+    "team": "ACSC FC Arges",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Romania%20-%20SuperLiga/ACSC%20FC%20Arges.png"
+  },
+  {
+    "team": "CFR Cluj",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Romania%20-%20SuperLiga/CFR%20Cluj.png"
+  },
+  {
+    "team": "Corvinul Hunedoara",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Romania%20-%20SuperLiga/Corvinul%20Hunedoara.png"
+  },
+  {
+    "team": "FC Botosani",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Romania%20-%20SuperLiga/FC%20Botosani.png"
+  },
+  {
+    "team": "FC Dinamo 1948",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Romania%20-%20SuperLiga/FC%20Dinamo%201948.png"
+  },
+  {
+    "team": "FC Rapid 1923",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Romania%20-%20SuperLiga/FC%20Rapid%201923.png"
+  },
+  {
+    "team": "FC Universitatea Cluj",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Romania%20-%20SuperLiga/FC%20Universitatea%20Cluj.png"
+  },
+  {
+    "team": "FC Voluntari",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Romania%20-%20SuperLiga/FC%20Voluntari.png"
+  },
+  {
+    "team": "FCSB",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Romania%20-%20SuperLiga/FCSB.png"
+  },
+  {
+    "team": "FCV Farul Constanta",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Romania%20-%20SuperLiga/FCV%20Farul%20Constanta.png"
+  },
+  {
+    "team": "FK Csikszereda Miercurea Ciuc",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Romania%20-%20SuperLiga/FK%20Csikszereda%20Miercurea%20Ciuc.png"
+  },
+  {
+    "team": "Petrolul Ploiesti",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Romania%20-%20SuperLiga/Petrolul%20Ploiesti.png"
+  },
+  {
+    "team": "SC Otelul Galati",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Romania%20-%20SuperLiga/SC%20Otelul%20Galati.png"
+  },
+  {
+    "team": "Sepsi OSK Sf. Gheorghe",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Romania%20-%20SuperLiga/Sepsi%20OSK%20Sf.%20Gheorghe.png"
+  },
+  {
+    "team": "Universitatea Craiova",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Romania%20-%20SuperLiga/Universitatea%20Craiova.png"
+  },
+  {
+    "team": "UTA Arad",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Romania%20-%20SuperLiga/UTA%20Arad.png"
+  },
+  {
+    "team": "Akhmat Grozny",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Russia%20-%20Premier%20Liga/Akhmat%20Grozny.png"
+  },
+  {
+    "team": "Akron Tolyatti",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Russia%20-%20Premier%20Liga/Akron%20Tolyatti.png"
+  },
+  {
+    "team": "Baltika Kaliningrad",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Russia%20-%20Premier%20Liga/Baltika%20Kaliningrad.png"
+  },
+  {
+    "team": "CSKA Moscow",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Russia%20-%20Premier%20Liga/CSKA%20Moscow.png"
+  },
+  {
+    "team": "Dinamo Makhachkala",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Russia%20-%20Premier%20Liga/Dinamo%20Makhachkala.png"
+  },
+  {
+    "team": "Dynamo Moscow",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Russia%20-%20Premier%20Liga/Dynamo%20Moscow.png"
+  },
+  {
+    "team": "Fakel Voronezh",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Russia%20-%20Premier%20Liga/Fakel%20Voronezh.png"
+  },
+  {
+    "team": "FC Krasnodar",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Russia%20-%20Premier%20Liga/FC%20Krasnodar.png"
+  },
+  {
+    "team": "FC Orenburg",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Russia%20-%20Premier%20Liga/FC%20Orenburg.png"
+  },
+  {
+    "team": "FC Rostov",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Russia%20-%20Premier%20Liga/FC%20Rostov.png"
+  },
+  {
+    "team": "Krylya Sovetov Samara",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Russia%20-%20Premier%20Liga/Krylya%20Sovetov%20Samara.png"
+  },
+  {
+    "team": "Lokomotiv Moscow",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Russia%20-%20Premier%20Liga/Lokomotiv%20Moscow.png"
+  },
+  {
+    "team": "Rodina Moscow",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Russia%20-%20Premier%20Liga/Rodina%20Moscow.png"
+  },
+  {
+    "team": "Rubin Kazan",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Russia%20-%20Premier%20Liga/Rubin%20Kazan.png"
+  },
+  {
+    "team": "Spartak Moscow",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Russia%20-%20Premier%20Liga/Spartak%20Moscow.png"
+  },
+  {
+    "team": "Zenit St. Petersburg",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Russia%20-%20Premier%20Liga/Zenit%20St.%20Petersburg.png"
+  },
+  {
+    "team": "Aberdeen FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Scotland%20-%20Scottish%20Premiership/Aberdeen%20FC.png"
+  },
+  {
+    "team": "Celtic FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Scotland%20-%20Scottish%20Premiership/Celtic%20FC.png"
+  },
+  {
+    "team": "Dundee FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Scotland%20-%20Scottish%20Premiership/Dundee%20FC.png"
+  },
+  {
+    "team": "Dundee United FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Scotland%20-%20Scottish%20Premiership/Dundee%20United%20FC.png"
+  },
+  {
+    "team": "Falkirk FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Scotland%20-%20Scottish%20Premiership/Falkirk%20FC.png"
+  },
+  {
+    "team": "Heart of Midlothian FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Scotland%20-%20Scottish%20Premiership/Heart%20of%20Midlothian%20FC.png"
+  },
+  {
+    "team": "Hibernian FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Scotland%20-%20Scottish%20Premiership/Hibernian%20FC.png"
+  },
+  {
+    "team": "Kilmarnock FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Scotland%20-%20Scottish%20Premiership/Kilmarnock%20FC.png"
+  },
+  {
+    "team": "Motherwell FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Scotland%20-%20Scottish%20Premiership/Motherwell%20FC.png"
+  },
+  {
+    "team": "Rangers FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Scotland%20-%20Scottish%20Premiership/Rangers%20FC.png"
+  },
+  {
+    "team": "St. Johnstone FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Scotland%20-%20Scottish%20Premiership/St.%20Johnstone%20FC.png"
+  },
+  {
+    "team": "St. Mirren FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Scotland%20-%20Scottish%20Premiership/St.%20Mirren%20FC.png"
+  },
+  {
+    "team": "FK Cukaricki",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Serbia%20-%20Super%20liga%20Srbije/FK%20Cukaricki.png"
+  },
+  {
+    "team": "FK IMT Belgrad",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Serbia%20-%20Super%20liga%20Srbije/FK%20IMT%20Belgrad.png"
+  },
+  {
+    "team": "FK Macva Sabac",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Serbia%20-%20Super%20liga%20Srbije/FK%20Macva%20Sabac.png"
+  },
+  {
+    "team": "FK Mladost Lucani",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Serbia%20-%20Super%20liga%20Srbije/FK%20Mladost%20Lucani.png"
+  },
+  {
+    "team": "FK Novi Pazar",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Serbia%20-%20Super%20liga%20Srbije/FK%20Novi%20Pazar.png"
+  },
+  {
+    "team": "FK Partizan Belgrade",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Serbia%20-%20Super%20liga%20Srbije/FK%20Partizan%20Belgrade.png"
+  },
+  {
+    "team": "FK Radnicki 1923 Kragujevac",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Serbia%20-%20Super%20liga%20Srbije/FK%20Radnicki%201923%20Kragujevac.png"
+  },
+  {
+    "team": "FK Radnicki Nis",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Serbia%20-%20Super%20liga%20Srbije/FK%20Radnicki%20Nis.png"
+  },
+  {
+    "team": "FK Radnik Surdulica",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Serbia%20-%20Super%20liga%20Srbije/FK%20Radnik%20Surdulica.png"
+  },
+  {
+    "team": "FK Vojvodina Novi Sad",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Serbia%20-%20Super%20liga%20Srbije/FK%20Vojvodina%20Novi%20Sad.png"
+  },
+  {
+    "team": "FK Zeleznicar Pancevo",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Serbia%20-%20Super%20liga%20Srbije/FK%20Zeleznicar%20Pancevo.png"
+  },
+  {
+    "team": "FK Zemun",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Serbia%20-%20Super%20liga%20Srbije/FK%20Zemun.png"
+  },
+  {
+    "team": "OFK Beograd",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Serbia%20-%20Super%20liga%20Srbije/OFK%20Beograd.png"
+  },
+  {
+    "team": "Red Star Belgrade",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Serbia%20-%20Super%20liga%20Srbije/Red%20Star%20Belgrade.png"
+  },
+  {
+    "team": "Athletic Bilbao",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/Athletic%20Bilbao.png"
+  },
+  {
+    "team": "Atlético de Madrid",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/Atl%C3%A9tico%20de%20Madrid.png"
+  },
+  {
+    "team": "CA Osasuna",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/CA%20Osasuna.png"
+  },
+  {
+    "team": "Celta de Vigo",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/Celta%20de%20Vigo.png"
+  },
+  {
+    "team": "Deportivo A Coruña",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/Deportivo%20A%20Coru%C3%B1a.png"
+  },
+  {
+    "team": "Deportivo Alavés",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/Deportivo%20Alav%C3%A9s.png"
+  },
+  {
+    "team": "Elche CF",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/Elche%20CF.png"
+  },
+  {
+    "team": "FC Barcelona",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/FC%20Barcelona.png"
+  },
+  {
+    "team": "Getafe CF",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/Getafe%20CF.png"
+  },
+  {
+    "team": "Levante UD",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/Levante%20UD.png"
+  },
+  {
+    "team": "Málaga CF",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/M%C3%A1laga%20CF.png"
+  },
+  {
+    "team": "Racing Santander",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/Racing%20Santander.png"
+  },
+  {
+    "team": "Rayo Vallecano",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/Rayo%20Vallecano.png"
+  },
+  {
+    "team": "RCD Espanyol Barcelona",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/RCD%20Espanyol%20Barcelona.png"
+  },
+  {
+    "team": "Real Betis Balompié",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/Real%20Betis%20Balompi%C3%A9.png"
+  },
+  {
+    "team": "Real Madrid",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/Real%20Madrid.png"
+  },
+  {
+    "team": "Real Sociedad",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/Real%20Sociedad.png"
+  },
+  {
+    "team": "Sevilla FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/Sevilla%20FC.png"
+  },
+  {
+    "team": "Valencia CF",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/Valencia%20CF.png"
+  },
+  {
+    "team": "Villarreal CF",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Spain%20-%20LaLiga/Villarreal%20CF.png"
+  },
+  {
+    "team": "AIK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Sweden%20-%20Allsvenskan/AIK.png"
+  },
+  {
+    "team": "BK Häcken",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Sweden%20-%20Allsvenskan/BK%20H%C3%A4cken.png"
+  },
+  {
+    "team": "Degerfors IF",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Sweden%20-%20Allsvenskan/Degerfors%20IF.png"
+  },
+  {
+    "team": "Djurgårdens IF",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Sweden%20-%20Allsvenskan/Djurg%C3%A5rdens%20IF.png"
+  },
+  {
+    "team": "GAIS",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Sweden%20-%20Allsvenskan/GAIS.png"
+  },
+  {
+    "team": "Halmstads BK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Sweden%20-%20Allsvenskan/Halmstads%20BK.png"
+  },
+  {
+    "team": "Hammarby IF",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Sweden%20-%20Allsvenskan/Hammarby%20IF.png"
+  },
+  {
+    "team": "IF Brommapojkarna",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Sweden%20-%20Allsvenskan/IF%20Brommapojkarna.png"
+  },
+  {
+    "team": "IF Elfsborg",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Sweden%20-%20Allsvenskan/IF%20Elfsborg.png"
+  },
+  {
+    "team": "IFK Göteborg",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Sweden%20-%20Allsvenskan/IFK%20G%C3%B6teborg.png"
+  },
+  {
+    "team": "IK Sirius",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Sweden%20-%20Allsvenskan/IK%20Sirius.png"
+  },
+  {
+    "team": "Kalmar FF",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Sweden%20-%20Allsvenskan/Kalmar%20FF.png"
+  },
+  {
+    "team": "Malmö FF",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Sweden%20-%20Allsvenskan/Malm%C3%B6%20FF.png"
+  },
+  {
+    "team": "Mjällby AIF",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Sweden%20-%20Allsvenskan/Mj%C3%A4llby%20AIF.png"
+  },
+  {
+    "team": "Västerås SK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Sweden%20-%20Allsvenskan/V%C3%A4ster%C3%A5s%20SK.png"
+  },
+  {
+    "team": "Örgryte IS",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Sweden%20-%20Allsvenskan/%C3%96rgryte%20IS.png"
+  },
+  {
+    "team": "BSC Young Boys",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Switzerland%20-%20Super%20League/BSC%20Young%20Boys.png"
+  },
+  {
+    "team": "FC Basel 1893",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Switzerland%20-%20Super%20League/FC%20Basel%201893.png"
+  },
+  {
+    "team": "FC Lausanne-Sport",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Switzerland%20-%20Super%20League/FC%20Lausanne-Sport.png"
+  },
+  {
+    "team": "FC Lugano",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Switzerland%20-%20Super%20League/FC%20Lugano.png"
+  },
+  {
+    "team": "FC Luzern",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Switzerland%20-%20Super%20League/FC%20Luzern.png"
+  },
+  {
+    "team": "FC Sion",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Switzerland%20-%20Super%20League/FC%20Sion.png"
+  },
+  {
+    "team": "FC St. Gallen 1879",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Switzerland%20-%20Super%20League/FC%20St.%20Gallen%201879.png"
+  },
+  {
+    "team": "FC Thun",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Switzerland%20-%20Super%20League/FC%20Thun.png"
+  },
+  {
+    "team": "FC Vaduz",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Switzerland%20-%20Super%20League/FC%20Vaduz.png"
+  },
+  {
+    "team": "FC Zürich",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Switzerland%20-%20Super%20League/FC%20Z%C3%BCrich.png"
+  },
+  {
+    "team": "Grasshopper Club Zurich",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Switzerland%20-%20Super%20League/Grasshopper%20Club%20Zurich.png"
+  },
+  {
+    "team": "Servette FC",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Switzerland%20-%20Super%20League/Servette%20FC.png"
+  },
+  {
+    "team": "Alanyaspor",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Alanyaspor.png"
+  },
+  {
+    "team": "Amed SK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Amed%20SK.png"
+  },
+  {
+    "team": "Basaksehir FK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Basaksehir%20FK.png"
+  },
+  {
+    "team": "Besiktas JK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Besiktas%20JK.png"
+  },
+  {
+    "team": "Caykur Rizespor",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Caykur%20Rizespor.png"
+  },
+  {
+    "team": "Corum FK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Corum%20FK.png"
+  },
+  {
+    "team": "Erzurumspor FK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Erzurumspor%20FK.png"
+  },
+  {
+    "team": "Eyüpspor",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Ey%C3%BCpspor.png"
+  },
+  {
+    "team": "Fenerbahce",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Fenerbahce.png"
+  },
+  {
+    "team": "Galatasaray",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Galatasaray.png"
+  },
+  {
+    "team": "Gaziantep FK",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Gaziantep%20FK.png"
+  },
+  {
+    "team": "Genclerbirligi Ankara",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Genclerbirligi%20Ankara.png"
+  },
+  {
+    "team": "Göztepe",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/G%C3%B6ztepe.png"
+  },
+  {
+    "team": "Kasimpasa",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Kasimpasa.png"
+  },
+  {
+    "team": "Kocaelispor",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Kocaelispor.png"
+  },
+  {
+    "team": "Konyaspor",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Konyaspor.png"
+  },
+  {
+    "team": "Samsunspor",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Samsunspor.png"
+  },
+  {
+    "team": "Trabzonspor",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Trabzonspor.png"
+  },
+  {
+    "team": "Bukovyna Chernivtsi",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Ukraine%20-%20Premier%20Liga/Bukovyna%20Chernivtsi.png"
+  },
+  {
+    "team": "Chornomorets Odesa",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Ukraine%20-%20Premier%20Liga/Chornomorets%20Odesa.png"
+  },
+  {
+    "team": "Dynamo Kyiv",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Ukraine%20-%20Premier%20Liga/Dynamo%20Kyiv.png"
+  },
+  {
+    "team": "Epicentr Kamyanets-Podilskyi",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Ukraine%20-%20Premier%20Liga/Epicentr%20Kamyanets-Podilskyi.png"
+  },
+  {
+    "team": "FC Kharkiv",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Ukraine%20-%20Premier%20Liga/FC%20Kharkiv.png"
+  },
+  {
+    "team": "FC Kudrivka",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Ukraine%20-%20Premier%20Liga/FC%20Kudrivka.png"
+  },
+  {
+    "team": "Karpaty Lviv",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Ukraine%20-%20Premier%20Liga/Karpaty%20Lviv.png"
+  },
+  {
+    "team": "Kolos Kovalivka",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Ukraine%20-%20Premier%20Liga/Kolos%20Kovalivka.png"
+  },
+  {
+    "team": "Kryvbas Kryvyi Rig",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Ukraine%20-%20Premier%20Liga/Kryvbas%20Kryvyi%20Rig.png"
+  },
+  {
+    "team": "Livyi Bereg Kyiv",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Ukraine%20-%20Premier%20Liga/Livyi%20Bereg%20Kyiv.png"
+  },
+  {
+    "team": "LNZ Cherkasy",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Ukraine%20-%20Premier%20Liga/LNZ%20Cherkasy.png"
+  },
+  {
+    "team": "NK Veres Rivne",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Ukraine%20-%20Premier%20Liga/NK%20Veres%20Rivne.png"
+  },
+  {
+    "team": "Obolon Kyiv",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Ukraine%20-%20Premier%20Liga/Obolon%20Kyiv.png"
+  },
+  {
+    "team": "Polissya Zhytomyr",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Ukraine%20-%20Premier%20Liga/Polissya%20Zhytomyr.png"
+  },
+  {
+    "team": "Shakhtar Donetsk",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Ukraine%20-%20Premier%20Liga/Shakhtar%20Donetsk.png"
+  },
+  {
+    "team": "Zorya Lugansk",
+    "logo": "https://raw.githubusercontent.com/surdma/football-logos/master/logos/Ukraine%20-%20Premier%20Liga/Zorya%20Lugansk.png"
+  }
+]
